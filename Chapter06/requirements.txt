@@ -8,3 +8,5 @@ flask-bcrypt
 flask-openid
 flask-dance
 Faker==0.8.13
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
+mako>=1.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
