@@ -1,4 +1,4 @@
-FROM rabbitmq:3-management
+FROM rabbitmq:management
 
 ENV RABBITMQ_ERLANG_COOKIE "SWQOKODSQALRPCLNMEQG"
 ENV RABBITMQ_DEFAULT_USER "rabbitmq"
