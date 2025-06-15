@@ -12,3 +12,4 @@ flask-openid
 flask-dance
 celery
 flask-celery-helper
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
