@@ -26,3 +26,4 @@ celery
 flask-celery-helper
 selenium
 coverage
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
