@@ -23,3 +23,4 @@ flask-openid
 flask-dance
 celery
 flask-celery-helper
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
